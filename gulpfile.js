@@ -10,10 +10,10 @@ var DESTINATION_FOLDER = './dist';
 var PIXEL_FUNC_NAME    = 'opix';
 
 // The remote URL of the pixel.gif file that will be pinged by the browser to send tracking information
-var PIXEL_ENDPOINT     = 'https://tracker.example.com/pixel.gif';
+var PIXEL_ENDPOINT     = 'https://tracker.exampleJL.com/pixel.gif';
 
 // The core openpixel.min.js file that the snippet will loaded asynchronously into the browser
-var JS_ENDPOINT        = 'https://static.example.com/v1/openpixel.js';
+var JS_ENDPOINT        = 'https://static.exampleJL.com/v1/openpixel.js';
 
 // The current version of your openpixel configuration
 var VERSION            = '1';
